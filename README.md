@@ -5,6 +5,8 @@
 In financial industry, deciding on a loan application, whether to approve or not is a two-edged sword.  Bank should not lose business by denying a legitimate customer, who can repay.  Also, it should not approve loan to in-eligible customer.  Banks are playing important role in challenging times like now, with COVID pandemic across the globe.
 With the enhancement in the banking sector lots of people are applying for bank loans but the bank has its limited assets which it has to grant to limited people only, so finding out to whom the loan can be granted which will be a safer option for the bank is a typical process. In this paper we try to predict the customer, whether he is eligible for the loan approval and to reduce this risk factor of bank efforts and assets.
 
+![](https://github.com/bgaggainpali/Bhargava-Gaggainpali/blob/main/images/Bank_Loan_Approval_Feature_Importance.JPG)
+
 # [Project 2: Telecom Customer Churn](https://github.com/bgaggainpali/bgaggainpali_DSC630)
 
 Customer churn is a major problem and one of the most important concerns for every company. Retaining an existing customer is many times more effective thanks gaining new customers. Generally, people only switch to a different company only when the service is not to the level of expectation in one or the other factor when compared to competitors, more than getting attracted to the specials and offers which are offered by the other companies. 
